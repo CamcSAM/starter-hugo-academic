@@ -1,12 +1,12 @@
 ---
-title: 课题示例
+title: 系统与服务外链
 summary: 摘要
 tags:
 - Demo
 date: "2021-10-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.chinaamc.com/"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
