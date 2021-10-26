@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 华夏基金-智能投研科技中心
+title: 李四
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # # Role/position/tagline
-# role: Professor of Artificial Intelligence
+role: 行政负责人
 
 # Organizations/Affiliations to show in About widget
 # organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 华夏基金-智能投研科技中心
+title: 张三
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # # Role/position/tagline
-# role: Professor of Artificial Intelligence
+role: 智能投研研究员
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -72,7 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 管理员
+- 研究员
 
 ---
 

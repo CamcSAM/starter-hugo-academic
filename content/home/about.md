@@ -15,8 +15,18 @@ design:
   # Add custom styles
   css_style:
   css_class:
+
+cta:
+  url: 'people'
+  label:   关于我们
+  icon_pack: fas
+  icon: user
 ---
 
 <br>
 
-**服务、优化、创新**。为主动投研服务，利用数据和模型来拓展投资能力Human+Machine，推动投研的系统化建设，为公司提升规模和业绩做出贡献。
+**服务、优化、创新**。为主动投研服务，利用数据和模型来拓展投资能力，推动投研的系统化建设，为公司提升规模和业绩做出贡献。
+
+
+
+

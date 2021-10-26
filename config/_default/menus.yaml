@@ -16,9 +16,12 @@ main:
   - name: 系统与服务
     url: '#services'
     weight: 40
-  - name: 联系我们
-    url: '#contact'
+  - name: 关于我们
+    url: 'people'
     weight: 60
+  # - name: 联系我们
+  #   url: '#contact'
+  #   weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

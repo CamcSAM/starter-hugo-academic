@@ -11,7 +11,7 @@ copyright: '© 2021 华夏基金-智能投研科技中心' # Footer text, e.g. '
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
