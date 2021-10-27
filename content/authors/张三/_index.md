@@ -14,7 +14,7 @@ role: 智能投研研究员
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 主要覆盖量化资产配置、多因子选股和基金评价等方向的研究开发。
 
 # Interests to show in About widget
 # interests:

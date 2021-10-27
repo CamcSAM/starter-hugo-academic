@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 75
+weight: 65
 
-title: 系统与服务
+title: 原型中心
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: service
+  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: 全部
     tag: '*'
-  - name: 智能投顾
-    tag: 智能投顾
+  - name: 标签1
+    tag: 标签1
+  - name: 标签2
+    tag: 标签2
   - name: 其他
     tag: Demo
 

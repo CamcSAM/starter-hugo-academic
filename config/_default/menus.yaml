@@ -10,11 +10,11 @@ main:
   - name: 最新动态
     url: '#posts'
     weight: 20
-  - name: 研究成果
-    url: '#projects'
+  - name: 原型中心
+    url: '#demo'
     weight: 30
-  - name: 系统与服务
-    url: '#services'
+  - name: 研究中心
+    url: '#research'
     weight: 40
   - name: 关于我们
     url: 'people'
