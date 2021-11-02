@@ -15,12 +15,12 @@ design:
   css_style:
   css_class: 
 
-  background:
-    gradient_start: '#e0ffff'
-    gradient_end: '#ffffff'
-    gradient_angle: 90
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    # text_color_light: true
+  # background:
+  #   gradient_start: '#e0ffff'
+  #   gradient_end: '#ffffff'
+  #   gradient_angle: 90
+  #   # Text color (true=light, false=dark, or remove for the dynamic theme color).
+  #   text_color_light: false
 
 cta:
   url: 'people'
