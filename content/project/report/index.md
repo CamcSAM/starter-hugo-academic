@@ -1,12 +1,12 @@
 ---
-title: 课题示例
-summary: 摘要
+title: 估值、情绪、流动性跟踪日报
+summary: 日频更新
 
 authors:
 - 张三
 
 tags:
-- Demo
+- 智能报告
 date: "2021-10-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

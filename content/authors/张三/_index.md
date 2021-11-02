@@ -77,4 +77,12 @@ user_groups:
 ---
 
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+北京大学计算机硕士，曾任互联网公司人工智能研究部算法研究员。
+
+2020年加入华夏基金管理有限公司，现任资产配置部智能投研科技中心研究员，熟悉计算机视觉、自然语言处理领域相关技术，有扎实的编程和算法建模功底。
+
+
+
+{{< icon name="envelope" pack="fas" >}} abc@chinaamc.com
+
+{{< icon name="phone" pack="fas" >}} 8888-8888

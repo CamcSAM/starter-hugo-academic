@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: 全部
     tag: '*'
-  - name: 标签1
-    tag: 标签1
-  - name: 标签2
-    tag: 标签2
+  - name: 原型展示
+    tag: 原型展示
+  - name: 智能周报
+    tag: 智能周报
   - name: 其他
     tag: Demo
 
@@ -47,4 +47,6 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
+
+  css_class: fullscreen
 ---

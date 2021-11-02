@@ -13,6 +13,11 @@ main:
   - name: 原型中心
     url: '#demo'
     weight: 30
+    identifier: 'demo'
+  # - name: 原型展示
+  #   url: '#demo'
+  #   weight: 30
+  #   parent: 'demo'
   - name: 研究中心
     url: '#research'
     weight: 40

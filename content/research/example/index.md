@@ -1,6 +1,6 @@
 ---
-title: 外链
-summary: 摘要
+title: 外链样例
+summary: 华夏基金官网
 
 tags:
 - Demo

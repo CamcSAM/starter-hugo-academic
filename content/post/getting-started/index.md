@@ -1,9 +1,9 @@
 ---
 title: 欢迎👋来到华夏基金-智能投研科技中心的主页
-subtitle: 副标题 可检索
+subtitle: 团队介绍
 
 # Summary for listings and search engines
-summary: 副标题 可检索
+summary: 团队介绍
 
 # Link this post with a project
 projects: []
