@@ -32,7 +32,7 @@ content:
   - name: 策略跟踪
     tag: 策略跟踪
   - name: 其他
-    tag: Demo
+    tag: 其他
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

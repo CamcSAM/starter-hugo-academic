@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: 原型展示
     tag: 原型展示
-  - name: 智能周报
-    tag: 智能周报
+  - name: 智能报告
+    tag: 智能报告
   - name: 其他
-    tag: Demo
+    tag: 其他
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
