@@ -32,7 +32,12 @@ title: 华夏基金-智能投研科技中心
 
 item:
   - title: 智能投研科技中心
-    content: '**服务、优化、创新**。赋能主动投研，利用数据模型拓展投资能力，推动投研系统化建设，为公司提升规模和业绩做出贡献。'
+    content: '
+    <br />
+    **服务、优化、创新**。赋能主动投研，利用数据模型拓展投资能力，推动投研系统化建设，为公司提升规模和业绩做出贡献。  
+    <br />
+    <br />
+    '
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -43,10 +48,11 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: 关于
-    cta_url: 'people'
-    cta_icon_pack: fas
-    cta_icon: user
+
+    # cta_label: 关于
+    # cta_url: 'people'
+    # cta_icon_pack: fas
+    # cta_icon: user
 
 ---
 

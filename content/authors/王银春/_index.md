@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 王总
+title: 王银春
 
 # Is this the primary user of the site?
 superuser: false
 
 # # Role/position/tagline
-role: 行政负责人
+role: 智能投研负责人
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -14,7 +14,7 @@ role: 行政负责人
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 主管智能投研方向研究
 
 # Interests to show in About widget
 # interests:
@@ -76,5 +76,12 @@ user_groups:
 
 ---
 
+麻省理工学院工程博士，9年从业经验。曾任富达投资集团(美国)金融工程部经理，人工智能和数据科学部总监。
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+2019年加入华夏基金管理有限公司，现任资产配置部智能投研科技中心行政负责人，在人工智能在金融领域的应用有丰富的经验。
+
+
+{{< icon name="envelope" pack="fas" >}} wangyc@chinaamc.com
+
+{{< icon name="phone" pack="fas" >}} 8806-6547
+

@@ -3,6 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+
 # This file represents a page section.
 headless: true
 
@@ -32,7 +33,7 @@ content:
   order: desc
 
 design:
-  columns: "2"
+  columns: "1"
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact

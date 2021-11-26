@@ -1,12 +1,14 @@
 ---
 # Display name
-title: 张三
+title: 米楠
+
+weight: 23
 
 # Is this the primary user of the site?
 superuser: false
 
 # # Role/position/tagline
-role: 智能投研研究员
+role: 智能投研产品经理
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -14,7 +16,7 @@ role: 智能投研研究员
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要覆盖量化资产配置、多因子选股和基金评价等方向的研究开发。
+bio: 负责智能投研产品企划
 
 # Interests to show in About widget
 # interests:
@@ -77,12 +79,7 @@ user_groups:
 ---
 
 
-北京大学计算机硕士，曾任互联网公司人工智能研究部算法研究员。
 
-2020年加入华夏基金管理有限公司，现任资产配置部智能投研科技中心研究员，熟悉计算机视觉、自然语言处理领域相关技术，有扎实的编程和算法建模功底。
+{{< icon name="envelope" pack="fas" >}} min@chinaamc.com
 
-
-
-{{< icon name="envelope" pack="fas" >}} abc@chinaamc.com
-
-{{< icon name="phone" pack="fas" >}} 8888-8888
+{{< icon name="phone" pack="fas" >}} 8806-6656
