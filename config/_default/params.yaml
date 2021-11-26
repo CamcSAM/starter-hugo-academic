@@ -62,7 +62,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -91,10 +91,10 @@ edit_page:
 show_related:
   book: false
   page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+  post: false
+  project: false
+  publication: false
+  event: false
 reading_time: false
 section_pager: false
 docs_section_pager: true

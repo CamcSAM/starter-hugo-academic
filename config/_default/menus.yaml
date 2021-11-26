@@ -4,24 +4,66 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 首页
-    url: '#about'
-    weight: 10
-  - name: 最新动态
-    url: '#posts'
+  # - name: 首页
+  #   url: '#about'
+  #   weight: 10
+  - name: 策略
+    url: '#strategy'
     weight: 20
-  - name: 原型中心
-    url: '#demo'
+    identifier: "strategy"
+  - name: 周期模型配置
+    url: 'strategy/cycle'
+    parent: "strategy"
+  - name: 宏观指标-资产映射
+    url: 'strategy/macro-asset'
+    parent: "strategy"
+  - name: 行业估值比较与监控
+    url: 'strategy/valuation'
+    parent: "strategy"
+  - name: 行业相关性监控
+    url: 'strategy/correlation'
+    parent: "strategy"
+  - name: 资产
+    url: '#fund'
     weight: 30
-    identifier: 'demo'
+    identifier: "fund"
+  - name: 基金诊断
+    url: 'fund/fund-diagnosis'
+    parent: "fund"
+  - name: 基金替代
+    url: 'fund/fund-replacement'
+    parent: "fund"
+  - name: 基金指标分析与跟踪
+    url: 'fund/fund-indicators'
+    parent: "fund"
+  - name: 基金经理画像
+    url: 'fund/fund-manager'
+    parent: "fund"
+  - name: 组合
+    url: '#portfolio'
+    weight: 40
+    identifier: "portfolio"
+  - name: 组合情景模拟
+    url: 'portfolio/simulation'
+    parent: "portfolio"
+  - name: 目标回撤组合构建
+    url: 'portfolio/maxdrawdown'
+    parent: "portfolio"
+  # - name: 最新动态
+  #   url: '#posts'
+  #   weight: 20
+  # - name: 原型中心
+  #   url: '#demo'
+  #   weight: 30
+  #   identifier: 'demo'
   # - name: 原型展示
   #   url: '#demo'
   #   weight: 30
   #   parent: 'demo'
-  - name: 研究中心
-    url: '#research'
-    weight: 40
-  - name: 关于我们
+  # - name: 研究中心
+  #   url: '#research'
+  #   weight: 40
+  - name: 关于
     url: 'people'
     weight: 60
   # - name: 联系我们

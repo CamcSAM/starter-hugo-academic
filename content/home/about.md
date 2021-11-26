@@ -43,7 +43,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: 关于我们
+    cta_label: 关于
     cta_url: 'people'
     cta_icon_pack: fas
     cta_icon: user

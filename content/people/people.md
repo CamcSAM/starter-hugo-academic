@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 69
 
-title: 关于我们
+title: 关于智能投研科技中心
 subtitle:
 
 content:
